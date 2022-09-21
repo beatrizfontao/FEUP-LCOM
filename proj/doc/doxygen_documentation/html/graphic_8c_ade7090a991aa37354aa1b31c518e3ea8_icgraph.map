@@ -1,0 +1,12 @@
+<map id="drawXpm" name="drawXpm">
+<area shape="rect" id="node1" title="Draws the specified xpm img on the screen on the correct coordinates." alt="" coords="617,132,692,159"/>
+<area shape="rect" id="node2" href="$graphic_8c.html#a340508a1df6ee19faa63128f7a902906" title="Draws an alien." alt="" coords="312,5,391,32"/>
+<area shape="rect" id="node5" href="$alien_bullet_8c.html#a65431a1219582be0959e3ddc2c8bf594" title="Draws the alien bullet if it is active according to its position." alt="" coords="296,56,407,83"/>
+<area shape="rect" id="node6" href="$ship_8c.html#a8f055dd3336f61d5e0f7812ab4cdd637" title="Draws the current number of lives of the ship (based on how many times the ship was hit)" alt="" coords="473,107,551,133"/>
+<area shape="rect" id="node7" href="$ship_8c.html#ad9e5fe732841cbe0e9970f26930fd677" title="Draws the score of the ship (based on how many and on the type of aliens that were killed)" alt="" coords="310,157,393,184"/>
+<area shape="rect" id="node8" href="$ship_8c.html#a7f56468d45d440c2ee40edee3fa74df8" title="Calls the fuction that draws XPMs to draw the ship." alt="" coords="475,208,549,235"/>
+<area shape="rect" id="node10" href="$ship_bullet_8c.html#a9199dc12fde2060a7135f2c025365739" title="Draws all the ship&#39;s bullets currently being shot." alt="" coords="455,284,569,311"/>
+<area shape="rect" id="node3" href="$game_8c.html#a649a26d3c9953d9f2af863e859e0c40d" title="Function containing the main interrupt loop." alt="" coords="163,157,248,184"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,157,115,184"/>
+<area shape="rect" id="node9" href="$game_8c.html#a222e467650860e3939251041128cc21d" title="Function that initiates game objects (Aliens, Alien Bullets, Ship Bullets, etc.)" alt="" coords="314,259,389,285"/>
+</map>

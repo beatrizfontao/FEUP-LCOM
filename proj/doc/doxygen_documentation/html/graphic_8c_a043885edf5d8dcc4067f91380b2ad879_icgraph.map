@@ -1,0 +1,8 @@
+<map id="drawBackground" name="drawBackground">
+<area shape="rect" id="node1" title="Draws the game background." alt="" coords="460,81,579,108"/>
+<area shape="rect" id="node2" href="$menu_8c.html#ac42ca7f788ae6d74c290ea89c5333f8d" title="Draws the instructions menu according to if the back button is being hovered or not." alt="" coords="296,5,412,32"/>
+<area shape="rect" id="node3" href="$game_8c.html#a649a26d3c9953d9f2af863e859e0c40d" title="Function containing the main interrupt loop." alt="" coords="163,81,248,108"/>
+<area shape="rect" id="node5" href="$menu_8c.html#ab300ce14276fc5019f317ee55a491a0e" title="Draws the menu according to the button being hovered." alt="" coords="313,107,395,133"/>
+<area shape="rect" id="node6" href="$game_8c.html#a222e467650860e3939251041128cc21d" title="Function that initiates game objects (Aliens, Alien Bullets, Ship Bullets, etc.)" alt="" coords="317,157,391,184"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,81,115,108"/>
+</map>

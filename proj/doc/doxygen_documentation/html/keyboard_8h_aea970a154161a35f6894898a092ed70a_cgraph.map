@@ -1,0 +1,4 @@
+<map id="kbc_ih" name="kbc_ih">
+<area shape="rect" id="node1" title="Keyboard Interrupt Handler. Receives the scancode of a key when there&#39;s an interrupt." alt="" coords="5,5,65,32"/>
+<area shape="rect" id="node2" href="$utils_8c.html#aacf6b6c8da2be290d4f0ad66dd65e101" title="Calls the sys_inb function and, instead of a uint32_t value, gets a uint8_t." alt="" coords="113,5,204,32"/>
+</map>

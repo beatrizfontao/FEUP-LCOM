@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['i8042_2eh_0',['i8042.h',['../i8042_8h.html',1,'']]],
+  ['i8254_1',['i8254',['../group__i8254.html',1,'']]],
+  ['i8254_2eh_2',['i8254.h',['../i8254_8h.html',1,'']]],
+  ['ibf_5fbit_3',['IBF_BIT',['../i8042_8h.html#a7a329783882f66a578ad3bbb787afd42',1,'i8042.h']]],
+  ['ih_5ferror_4',['ih_error',['../game_8c.html#a58ef7cbe073138260d59f99a514c96ff',1,'ih_error():&#160;mouse.c'],['../mouse_8c.html#a58ef7cbe073138260d59f99a514c96ff',1,'ih_error():&#160;mouse.c']]],
+  ['img_5',['img',['../struct_alien.html#af57ab5c8a7624c9156e3306932347cc8',1,'Alien::img()'],['../struct_alien_bullet.html#aa95e422249d0c5d1c0692f7165a0e25a',1,'AlienBullet::img()'],['../struct_mouse.html#ab11b24d1cdd1ec17c52943d7c4bd6cff',1,'Mouse::img()'],['../struct_ship.html#a010a866f704de4ea811e35a7c15762b7',1,'Ship::img()'],['../struct_ship_bullet.html#ae68b239c93826a7843a7c3aaaea6006a',1,'ShipBullet::img()']]],
+  ['img_5fmov_6',['img_mov',['../struct_alien.html#ae286ddfb3098f8449421245609942d5e',1,'Alien']]],
+  ['in_5fmode_7',['in_mode',['../group__timer.html#ga16c0028c537ce578196381bdc0cd97fd',1,'timer_status_field_val']]],
+  ['increasescore_8',['increaseScore',['../ship_8c.html#aa8f39c04800931eb24d84c1f10cb2e2f',1,'increaseScore(int scoreToAdd, Ship *ship):&#160;ship.c'],['../ship_8h.html#aa8f39c04800931eb24d84c1f10cb2e2f',1,'increaseScore(int scoreToAdd, Ship *ship):&#160;ship.c']]],
+  ['increment_5falien_5fx_5fcoordinates_9',['increment_alien_x_coordinates',['../alien_8c.html#ae45df66ec599b09acd08b75c9952a5da',1,'increment_alien_x_coordinates(Alien *a1):&#160;alien.c'],['../alien_8h.html#ae45df66ec599b09acd08b75c9952a5da',1,'increment_alien_x_coordinates(Alien *a1):&#160;alien.c']]],
+  ['initalienbullet_10',['initAlienBullet',['../alien_bullet_8c.html#ab456e2e1080e1b92d8cfccaaf3d2d2ff',1,'initAlienBullet():&#160;alienBullet.c'],['../alien_bullet_8h.html#ab456e2e1080e1b92d8cfccaaf3d2d2ff',1,'initAlienBullet():&#160;alienBullet.c']]],
+  ['initgame_11',['initGame',['../game_8h.html#a222e467650860e3939251041128cc21d',1,'initGame(Ship *ship):&#160;game.c'],['../game_8c.html#a222e467650860e3939251041128cc21d',1,'initGame(Ship *ship):&#160;game.c']]],
+  ['initial_12',['INITIAL',['../menu_8h.html#a03bfec859eac87be20f8952c1eb89de0a7116db6906963fd0720c4a85be250cf4',1,'menu.h']]],
+  ['initial_5falien_5fspeed_13',['INITIAL_ALIEN_SPEED',['../macros_8h.html#a39ccccffb6bcb82011b8e4f6a4c5d2be',1,'macros.h']]],
+  ['initmenuxpm_14',['initMenuXpm',['../menu_8c.html#a500831fd54949ae51c3dbbbd03e22c10',1,'initMenuXpm():&#160;menu.c'],['../menu_8h.html#a500831fd54949ae51c3dbbbd03e22c10',1,'initMenuXpm():&#160;menu.c']]],
+  ['initnumbers_15',['initNumbers',['../ship_8c.html#af617e0c26303558fafb2e7fc321bde28',1,'initNumbers():&#160;ship.c'],['../ship_8h.html#af617e0c26303558fafb2e7fc321bde28',1,'initNumbers():&#160;ship.c']]],
+  ['initshipbullets_16',['initShipBullets',['../ship_bullet_8c.html#a3fb69d5679ed81c1383e3c733c9c5b20',1,'initShipBullets():&#160;shipBullet.c'],['../ship_bullet_8h.html#a3fb69d5679ed81c1383e3c733c9c5b20',1,'initShipBullets():&#160;shipBullet.c']]],
+  ['instructions_5fback_5fxpm_17',['instructions_back_xpm',['../menu_8c.html#a6dc5e69f761496746329dc8c9d03f580',1,'menu.c']]],
+  ['instructions_5fbutton_18',['INSTRUCTIONS_BUTTON',['../menu_8h.html#a03bfec859eac87be20f8952c1eb89de0a2346ad5fb4bce9e18e7f293c82f677af',1,'menu.h']]],
+  ['instructions_5fdisplay_19',['INSTRUCTIONS_DISPLAY',['../game_8h.html#ad0ed1832dd134806ad335cdcc1a59ad2a4182f87f7fb0d4f42551740eb369e860',1,'game.h']]],
+  ['instructions_5fxpm_20',['instructions_xpm',['../menu_8c.html#a6d9c079c248c81826c0572f73e6218f7',1,'menu.c']]],
+  ['inval_5fval_21',['INVAL_val',['../group__timer.html#gga5cc20f14fd50625eea9b20f58fbe2a55a829d958875d8e92068f1b07f858721a4',1,'timer.h']]],
+  ['invalid_5fkey_22',['Invalid_key',['../ship_8h.html#a7346108c23181b6285d5233c7c2abc25ad8d1efad716c20be1f5e3280c19351b3',1,'ship.h']]],
+  ['irq_5frtc_23',['IRQ_RTC',['../rtc_8h.html#a910ac5f2c1b4016e433f9832358a1816',1,'rtc.h']]],
+  ['irqf_24',['IRQF',['../rtc_8h.html#a8565773f11252b9d615f1b12ac73032d',1,'rtc.h']]]
+];

@@ -1,0 +1,14 @@
+<map id="drawPixel" name="drawPixel">
+<area shape="rect" id="node1" title="Draws on screen a pixel." alt="" coords="717,81,796,108"/>
+<area shape="rect" id="node2" href="$graphic_8c.html#a6b3d405d67fe2947fb0779fde5c3c313" title="Draws the mouse." alt="" coords="296,5,384,32"/>
+<area shape="rect" id="node5" href="$graphic_8c.html#ade7090a991aa37354aa1b31c518e3ea8" title="Draws the specified xpm img on the screen on the correct coordinates." alt="" coords="595,157,669,184"/>
+<area shape="rect" id="node3" href="$game_8c.html#a649a26d3c9953d9f2af863e859e0c40d" title="Function containing the main interrupt loop." alt="" coords="163,183,248,209"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,183,115,209"/>
+<area shape="rect" id="node6" href="$graphic_8c.html#a340508a1df6ee19faa63128f7a902906" title="Draws an alien." alt="" coords="301,56,379,83"/>
+<area shape="rect" id="node7" href="$alien_bullet_8c.html#a65431a1219582be0959e3ddc2c8bf594" title="Draws the alien bullet if it is active according to its position." alt="" coords="434,107,545,133"/>
+<area shape="rect" id="node8" href="$ship_8c.html#a8f055dd3336f61d5e0f7812ab4cdd637" title="Draws the current number of lives of the ship (based on how many times the ship was hit)" alt="" coords="450,157,529,184"/>
+<area shape="rect" id="node9" href="$ship_8c.html#ad9e5fe732841cbe0e9970f26930fd677" title="Draws the score of the ship (based on how many and on the type of aliens that were killed)" alt="" coords="299,208,381,235"/>
+<area shape="rect" id="node10" href="$ship_8c.html#a7f56468d45d440c2ee40edee3fa74df8" title="Calls the fuction that draws XPMs to draw the ship." alt="" coords="452,259,527,285"/>
+<area shape="rect" id="node12" href="$ship_bullet_8c.html#a9199dc12fde2060a7135f2c025365739" title="Draws all the ship&#39;s bullets currently being shot." alt="" coords="432,335,547,361"/>
+<area shape="rect" id="node11" href="$game_8c.html#a222e467650860e3939251041128cc21d" title="Function that initiates game objects (Aliens, Alien Bullets, Ship Bullets, etc.)" alt="" coords="303,309,377,336"/>
+</map>

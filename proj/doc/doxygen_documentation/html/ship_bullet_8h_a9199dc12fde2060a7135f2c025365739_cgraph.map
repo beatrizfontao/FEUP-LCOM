@@ -1,0 +1,5 @@
+<map id="drawShipBullets" name="drawShipBullets">
+<area shape="rect" id="node1" title="Draws all the ship&#39;s bullets currently being shot." alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node2" href="$graphic_8c.html#ade7090a991aa37354aa1b31c518e3ea8" title="Draws the specified xpm img on the screen on the correct coordinates." alt="" coords="168,5,243,32"/>
+<area shape="rect" id="node3" href="$graphic_8c.html#acafeac4876ecff839214f0882d3434e5" title="Draws on screen a pixel." alt="" coords="291,5,369,32"/>
+</map>

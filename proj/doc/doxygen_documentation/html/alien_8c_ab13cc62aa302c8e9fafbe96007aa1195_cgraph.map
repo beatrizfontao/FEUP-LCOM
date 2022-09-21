@@ -1,0 +1,4 @@
+<map id="change_all_y" name="change_all_y">
+<area shape="rect" id="node1" title="Increases/Decreases all of the aliens y coordinates by the amount yf." alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node2" href="$alien_8c.html#a7c9e7491e0e68bdb49cf578b074f025d" title="Increases/Decreased the y coordinate of the alien by an xf amount." alt="" coords="152,5,339,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ship.h" name="ship.h">
+<area shape="rect" id="node1" title=" " alt="" coords="150,5,207,32"/>
+<area shape="rect" id="node2" href="$alien_bullet_8h.html" title=" " alt="" coords="15,80,108,107"/>
+<area shape="rect" id="node4" href="$game_8h.html" title=" " alt="" coords="123,155,189,181"/>
+<area shape="rect" id="node7" href="$ship_8c.html" title=" " alt="" coords="183,80,241,107"/>
+<area shape="rect" id="node8" href="$ship_bullet_8h.html" title=" " alt="" coords="265,80,356,107"/>
+<area shape="rect" id="node3" href="$alien_bullet_8c.html" title=" " alt="" coords="5,155,99,181"/>
+<area shape="rect" id="node5" href="$game_8c.html" title=" " alt="" coords="82,229,147,256"/>
+<area shape="rect" id="node6" href="$proj_8c.html" title=" " alt="" coords="171,229,226,256"/>
+<area shape="rect" id="node9" href="$ship_bullet_8c.html" title=" " alt="" coords="265,155,356,181"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="drawInstructions" name="drawInstructions">
+<area shape="rect" id="node1" title="Draws the instructions menu according to if the back button is being hovered or not." alt="" coords="5,5,121,32"/>
+<area shape="rect" id="node2" href="$graphic_8c.html#a043885edf5d8dcc4067f91380b2ad879" title="Draws the game background." alt="" coords="169,5,288,32"/>
+</map>

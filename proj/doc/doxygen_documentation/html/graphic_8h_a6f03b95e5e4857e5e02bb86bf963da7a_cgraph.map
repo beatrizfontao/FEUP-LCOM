@@ -1,0 +1,4 @@
+<map id="loadBackground" name="loadBackground">
+<area shape="rect" id="node1" title="Loads the xpm of the background of the game." alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node2" href="$graphic_8c.html#a19c3eef6bb30b354df6781c4245e7e56" title="Loads the xpm specified." alt="" coords="168,5,239,32"/>
+</map>

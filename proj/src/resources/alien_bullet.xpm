@@ -1,0 +1,27 @@
+/* XPM */
+static xpm_row_t const alien_bullet[] = {
+/* columns rows colors chars-per-pixel */
+"5 20 1 ",
+"  26",
+/* pixels */
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     "
+};

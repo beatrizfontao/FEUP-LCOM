@@ -1,0 +1,8 @@
+<map id="loadXpm" name="loadXpm">
+<area shape="rect" id="node1" title="Loads the xpm specified." alt="" coords="624,48,695,74"/>
+<area shape="rect" id="node2" href="$graphic_8c.html#a6f03b95e5e4857e5e02bb86bf963da7a" title="Loads the xpm of the background of the game." alt="" coords="461,22,576,49"/>
+<area shape="rect" id="node6" href="$graphic_8c.html#a1912555739531c213fdc5f982b3cfd6d" title="Loads the xpm of the initial screen with the title of the game." alt="" coords="296,73,413,100"/>
+<area shape="rect" id="node3" href="$game_8c.html#a649a26d3c9953d9f2af863e859e0c40d" title="Function containing the main interrupt loop." alt="" coords="163,22,248,49"/>
+<area shape="rect" id="node5" href="$game_8c.html#a222e467650860e3939251041128cc21d" title="Function that initiates game objects (Aliens, Alien Bullets, Ship Bullets, etc.)" alt="" coords="317,22,392,49"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,22,115,49"/>
+</map>

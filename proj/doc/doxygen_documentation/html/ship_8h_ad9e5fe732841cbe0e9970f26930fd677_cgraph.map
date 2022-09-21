@@ -1,0 +1,5 @@
+<map id="drawScore" name="drawScore">
+<area shape="rect" id="node1" title="Draws the score of the ship (based on how many and on the type of aliens that were killed)" alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node2" href="$graphic_8c.html#ade7090a991aa37354aa1b31c518e3ea8" title="Draws the specified xpm img on the screen on the correct coordinates." alt="" coords="136,5,211,32"/>
+<area shape="rect" id="node3" href="$graphic_8c.html#acafeac4876ecff839214f0882d3434e5" title="Draws on screen a pixel." alt="" coords="259,5,337,32"/>
+</map>

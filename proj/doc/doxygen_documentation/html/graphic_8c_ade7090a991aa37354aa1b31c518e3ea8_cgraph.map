@@ -1,0 +1,4 @@
+<map id="drawXpm" name="drawXpm">
+<area shape="rect" id="node1" title="Draws the specified xpm img on the screen on the correct coordinates." alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node2" href="$graphic_8c.html#acafeac4876ecff839214f0882d3434e5" title="Draws on screen a pixel." alt="" coords="128,5,207,32"/>
+</map>

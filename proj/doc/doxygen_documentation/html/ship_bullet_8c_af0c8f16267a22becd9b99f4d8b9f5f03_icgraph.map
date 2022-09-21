@@ -1,0 +1,8 @@
+<map id="removeShipBullet" name="removeShipBullet">
+<area shape="rect" id="node1" title="Frees the memory allocated for the ship bullet." alt="" coords="529,56,652,83"/>
+<area shape="rect" id="node2" href="$ship_bullet_8c.html#a2dbae835dd22f0e4c40724d762681fe1" title="Calls the function removeShipBullet for every bullet in the array shipBullets." alt="" coords="317,5,461,32"/>
+<area shape="rect" id="node3" href="$ship_bullet_8c.html#a6a193a3e7f7bab74dafab70cfb36e17d" title="Updates all the positions of the ship&#39;s bullets acording to their speed." alt="" coords="305,56,472,83"/>
+<area shape="rect" id="node6" href="$ship_bullet_8c.html#a5258eb4528eabe1f44e658265005d2bb" title="Checks if there&#39;s been a colision between the bullets and and alien. Updates the score and the kill c..." alt="" coords="296,107,481,133"/>
+<area shape="rect" id="node4" href="$game_8c.html#a649a26d3c9953d9f2af863e859e0c40d" title="Function containing the main interrupt loop." alt="" coords="163,81,248,108"/>
+<area shape="rect" id="node5" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,81,115,108"/>
+</map>

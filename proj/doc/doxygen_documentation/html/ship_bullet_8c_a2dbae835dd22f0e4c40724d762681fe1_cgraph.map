@@ -1,0 +1,4 @@
+<map id="removeAllShipBullets" name="removeAllShipBullets">
+<area shape="rect" id="node1" title="Calls the function removeShipBullet for every bullet in the array shipBullets." alt="" coords="5,5,149,32"/>
+<area shape="rect" id="node2" href="$ship_bullet_8c.html#af0c8f16267a22becd9b99f4d8b9f5f03" title="Frees the memory allocated for the ship bullet." alt="" coords="197,5,320,32"/>
+</map>

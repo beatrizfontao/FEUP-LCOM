@@ -1,0 +1,5 @@
+<map id="drawAlienBullet" name="drawAlienBullet">
+<area shape="rect" id="node1" title="Draws the alien bullet if it is active according to its position." alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node2" href="$graphic_8c.html#ade7090a991aa37354aa1b31c518e3ea8" title="Draws the specified xpm img on the screen on the correct coordinates." alt="" coords="164,5,239,32"/>
+<area shape="rect" id="node3" href="$graphic_8c.html#acafeac4876ecff839214f0882d3434e5" title="Draws on screen a pixel." alt="" coords="287,5,365,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="increaseScore" name="increaseScore">
+<area shape="rect" id="node1" title="Increases the score of the ship." alt="" coords="529,5,635,32"/>
+<area shape="rect" id="node2" href="$ship_bullet_8c.html#a5258eb4528eabe1f44e658265005d2bb" title="Checks if there&#39;s been a colision between the bullets and and alien. Updates the score and the kill c..." alt="" coords="296,5,481,32"/>
+<area shape="rect" id="node3" href="$game_8c.html#a649a26d3c9953d9f2af863e859e0c40d" title="Function containing the main interrupt loop." alt="" coords="163,5,248,32"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

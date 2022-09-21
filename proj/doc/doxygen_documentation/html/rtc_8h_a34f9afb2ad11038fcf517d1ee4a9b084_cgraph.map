@@ -1,0 +1,6 @@
+<map id="rtc_disable" name="rtc_disable">
+<area shape="rect" id="node1" title="Disables the rtc Periodic Interruptions." alt="" coords="5,31,91,57"/>
+<area shape="rect" id="node2" href="$rtc_8c.html#aa5222da1b2653e793f236a6b76e973d4" title="Reads information from the register to the data value." alt="" coords="139,5,209,32"/>
+<area shape="rect" id="node4" href="$rtc_8c.html#aa8347e10bade246d4243714a509a8367" title="Writes the data to the register." alt="" coords="139,56,209,83"/>
+<area shape="rect" id="node3" href="$utils_8c.html#aacf6b6c8da2be290d4f0ad66dd65e101" title="Calls the sys_inb function and, instead of a uint32_t value, gets a uint8_t." alt="" coords="257,5,348,32"/>
+</map>

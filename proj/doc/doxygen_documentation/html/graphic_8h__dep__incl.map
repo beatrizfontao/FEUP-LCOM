@@ -1,0 +1,15 @@
+<map id="graphic.h" name="graphic.h">
+<area shape="rect" id="node1" title=" " alt="" coords="288,5,363,32"/>
+<area shape="rect" id="node2" href="$alien_bullet_8h.html" title=" " alt="" coords="5,155,99,181"/>
+<area shape="rect" id="node4" href="$game_8h.html" title=" " alt="" coords="301,229,366,256"/>
+<area shape="rect" id="node7" href="$graphic_8c.html" title=" " alt="" coords="512,80,587,107"/>
+<area shape="rect" id="node8" href="$menu_8h.html" title=" " alt="" coords="422,80,487,107"/>
+<area shape="rect" id="node10" href="$ship_8h.html" title=" " alt="" coords="238,80,295,107"/>
+<area shape="rect" id="node12" href="$ship_bullet_8h.html" title=" " alt="" coords="123,155,213,181"/>
+<area shape="rect" id="node3" href="$alien_bullet_8c.html" title=" " alt="" coords="5,229,99,256"/>
+<area shape="rect" id="node5" href="$game_8c.html" title=" " alt="" coords="258,304,323,331"/>
+<area shape="rect" id="node6" href="$proj_8c.html" title=" " alt="" coords="347,304,402,331"/>
+<area shape="rect" id="node9" href="$menu_8c.html" title=" " alt="" coords="473,155,538,181"/>
+<area shape="rect" id="node11" href="$ship_8c.html" title=" " alt="" coords="238,155,295,181"/>
+<area shape="rect" id="node13" href="$ship_bullet_8c.html" title=" " alt="" coords="123,229,213,256"/>
+</map>

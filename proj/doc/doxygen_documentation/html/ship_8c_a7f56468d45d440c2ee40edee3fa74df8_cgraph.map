@@ -1,0 +1,5 @@
+<map id="drawShip" name="drawShip">
+<area shape="rect" id="node1" title="Calls the fuction that draws XPMs to draw the ship." alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node2" href="$graphic_8c.html#ade7090a991aa37354aa1b31c518e3ea8" title="Draws the specified xpm img on the screen on the correct coordinates." alt="" coords="128,5,203,32"/>
+<area shape="rect" id="node3" href="$graphic_8c.html#acafeac4876ecff839214f0882d3434e5" title="Draws on screen a pixel." alt="" coords="251,5,329,32"/>
+</map>

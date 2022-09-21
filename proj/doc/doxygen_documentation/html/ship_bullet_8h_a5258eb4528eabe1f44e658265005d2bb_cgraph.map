@@ -1,0 +1,5 @@
+<map id="verifyAlienAndBulletCollision" name="verifyAlienAndBulletCollision">
+<area shape="rect" id="node1" title="Checks if there&#39;s been a colision between the bullets and and alien. Updates the score and the kill c..." alt="" coords="5,31,191,57"/>
+<area shape="rect" id="node2" href="$ship_8c.html#aa8f39c04800931eb24d84c1f10cb2e2f" title="Increases the score of the ship." alt="" coords="247,5,353,32"/>
+<area shape="rect" id="node3" href="$ship_bullet_8c.html#af0c8f16267a22becd9b99f4d8b9f5f03" title="Frees the memory allocated for the ship bullet." alt="" coords="239,56,361,83"/>
+</map>

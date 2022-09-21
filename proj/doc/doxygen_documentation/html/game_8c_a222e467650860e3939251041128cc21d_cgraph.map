@@ -1,0 +1,11 @@
+<map id="initGame" name="initGame">
+<area shape="rect" id="node1" title="Function that initiates game objects (Aliens, Alien Bullets, Ship Bullets, etc.)" alt="" coords="5,107,80,133"/>
+<area shape="rect" id="node2" href="$alien_8c.html#a1c861333d92a3c3ce68401f57e52cad6" title="Allocates memory and creates an Alien object." alt="" coords="144,5,231,32"/>
+<area shape="rect" id="node3" href="$ship_8c.html#afc56b30acbb553d2bd2ba77165157a29" title="Allocates memory and creates a Ship object." alt="" coords="145,56,229,83"/>
+<area shape="rect" id="node4" href="$graphic_8c.html#a043885edf5d8dcc4067f91380b2ad879" title="Draws the game background." alt="" coords="128,107,247,133"/>
+<area shape="rect" id="node5" href="$ship_8c.html#a7f56468d45d440c2ee40edee3fa74df8" title="Calls the fuction that draws XPMs to draw the ship." alt="" coords="150,157,225,184"/>
+<area shape="rect" id="node8" href="$graphic_8c.html#a6f03b95e5e4857e5e02bb86bf963da7a" title="Loads the xpm of the background of the game." alt="" coords="130,208,245,235"/>
+<area shape="rect" id="node6" href="$graphic_8c.html#ade7090a991aa37354aa1b31c518e3ea8" title="Draws the specified xpm img on the screen on the correct coordinates." alt="" coords="295,157,369,184"/>
+<area shape="rect" id="node7" href="$graphic_8c.html#acafeac4876ecff839214f0882d3434e5" title="Draws on screen a pixel." alt="" coords="417,157,496,184"/>
+<area shape="rect" id="node9" href="$graphic_8c.html#a19c3eef6bb30b354df6781c4245e7e56" title="Loads the xpm specified." alt="" coords="297,208,367,235"/>
+</map>

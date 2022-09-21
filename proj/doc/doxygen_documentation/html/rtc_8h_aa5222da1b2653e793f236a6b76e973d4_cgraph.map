@@ -1,0 +1,4 @@
+<map id="rtc_read" name="rtc_read">
+<area shape="rect" id="node1" title="Reads information from the register to the data value." alt="" coords="5,5,75,32"/>
+<area shape="rect" id="node2" href="$utils_8c.html#aacf6b6c8da2be290d4f0ad66dd65e101" title="Calls the sys_inb function and, instead of a uint32_t value, gets a uint8_t." alt="" coords="123,5,213,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="drawMenu" name="drawMenu">
+<area shape="rect" id="node1" title="Draws the menu according to the button being hovered." alt="" coords="5,5,87,32"/>
+<area shape="rect" id="node2" href="$graphic_8c.html#a043885edf5d8dcc4067f91380b2ad879" title="Draws the game background." alt="" coords="135,5,253,32"/>
+</map>

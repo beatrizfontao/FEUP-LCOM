@@ -1,0 +1,4 @@
+<map id="send_mouse_command" name="send_mouse_command">
+<area shape="rect" id="node1" title="Sends the given cmd to the keyboard controller." alt="" coords="5,5,165,32"/>
+<area shape="rect" id="node2" href="$utils_8c.html#aacf6b6c8da2be290d4f0ad66dd65e101" title="Calls the sys_inb function and, instead of a uint32_t value, gets a uint8_t." alt="" coords="213,5,304,32"/>
+</map>

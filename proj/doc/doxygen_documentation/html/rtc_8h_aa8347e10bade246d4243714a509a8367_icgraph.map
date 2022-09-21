@@ -1,0 +1,7 @@
+<map id="rtc_write" name="rtc_write">
+<area shape="rect" id="node1" title="Writes the data to the register." alt="" coords="429,31,500,57"/>
+<area shape="rect" id="node2" href="$rtc_8c.html#a34f9afb2ad11038fcf517d1ee4a9b084" title="Disables the rtc Periodic Interruptions." alt="" coords="296,5,381,32"/>
+<area shape="rect" id="node5" href="$rtc_8c.html#a54f65d95400d46eb5378f075de1b265a" title=" " alt="" coords="297,56,380,83"/>
+<area shape="rect" id="node3" href="$game_8c.html#a649a26d3c9953d9f2af863e859e0c40d" title="Function containing the main interrupt loop." alt="" coords="163,31,248,57"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,115,57"/>
+</map>

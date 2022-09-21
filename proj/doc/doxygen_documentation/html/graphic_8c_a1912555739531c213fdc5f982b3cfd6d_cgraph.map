@@ -1,0 +1,4 @@
+<map id="loadInitialScreen" name="loadInitialScreen">
+<area shape="rect" id="node1" title="Loads the xpm of the initial screen with the title of the game." alt="" coords="5,5,123,32"/>
+<area shape="rect" id="node2" href="$graphic_8c.html#a19c3eef6bb30b354df6781c4245e7e56" title="Loads the xpm specified." alt="" coords="171,5,241,32"/>
+</map>
