@@ -1,1 +1,1 @@
-# FEUP_LCOM
+# FEUP-LCOM
